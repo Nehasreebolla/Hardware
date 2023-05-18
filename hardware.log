@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.17)  18 MAY 2023 19:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.17)  18 MAY 2023 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1170,32 +1170,32 @@ LaTeX Info: Redefining \nameref on input line 101.
 \c@lemma=\count342
 \c@example=\count343
 \c@rem=\count344
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 2
-97.
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 3
+01.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 2
-97.
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 3
+01.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 2
-97.
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 3
+01.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 2
-97.
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 3
+01.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 2
-97.
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 3
+01.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
@@ -1203,60 +1203,59 @@ File: ts1txr.fd 2000/12/15 v3.1
 <circuit.jpg, id=7, 4045.1125pt x 1654.18pt>
 File: circuit.jpg Graphic file (type jpg)
 <use circuit.jpg>
-Package pdftex.def Info: circuit.jpg  used on input line 342.
+Package pdftex.def Info: circuit.jpg  used on input line 349.
 (pdftex.def)             Requested size: 258.0pt x 105.48097pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 342--343
+Overfull \hbox (6.0pt too wide) in paragraph at lines 349--350
  [][] 
  []
 
 <circuit1.jpg, id=8, 3948.7525pt x 1597.97pt>
 File: circuit1.jpg Graphic file (type jpg)
 <use circuit1.jpg>
-Package pdftex.def Info: circuit1.jpg  used on input line 347.
+Package pdftex.def Info: circuit1.jpg  used on input line 354.
 (pdftex.def)             Requested size: 258.0pt x 104.38373pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 347--348
+Overfull \hbox (6.0pt too wide) in paragraph at lines 354--355
+ [][] 
+ []
+
+<block.png, id=9, 943.72575pt x 469.15276pt>
+File: block.png Graphic file (type png)
+<use block.png>
+Package pdftex.def Info: block.png  used on input line 361.
+(pdftex.def)             Requested size: 516.0pt x 256.52432pt.
+
+Overfull \hbox (264.0pt too wide) in paragraph at lines 361--362
  [][] 
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
- <./circuit.jpg> <./circuit1.jpg>]
-<block.png, id=18, 943.72575pt x 469.15276pt>
-File: block.png Graphic file (type png)
-<use block.png>
-Package pdftex.def Info: block.png  used on input line 357.
-(pdftex.def)             Requested size: 516.0pt x 256.52432pt.
-
-Overfull \hbox (264.0pt too wide) in paragraph at lines 357--358
- [][] 
- []
-
-[2
+ <./circuit.jpg> <./circuit1.jpg>] [2
 
  <./block.png>] (./hardware.aux)
 Package rerunfilecheck Info: File `hardware.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29058 strings out of 480171
- 573591 string characters out of 5894489
- 827977 words of memory out of 5000000
- 46407 multiletter control sequences out of 15000+600000
- 525140 words of font info for 139 fonts, out of 8000000 for 9000
+ 29087 strings out of 480171
+ 573912 string characters out of 5894489
+ 831977 words of memory out of 5000000
+ 46429 multiletter control sequences out of 15000+600000
+ 534964 words of font info for 165 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
- 101i,6n,96p,500b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 101i,9n,96p,500b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr
-8a.pfb>
-Output written on hardware.pdf (2 pages, 3074158 bytes).
+/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
+utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on hardware.pdf (2 pages, 3078272 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 52 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
